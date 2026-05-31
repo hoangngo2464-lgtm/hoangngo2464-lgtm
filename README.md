@@ -84,14 +84,6 @@ Tôi phát triển các dự án về **IoT, hệ thống nhúng, Arduino/ESP32,
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangngo2464-lgtm&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
 
-## Đang hoàn thiện
-
-- Chuẩn hóa README cho từng repo
-- Tách rõ `src/`, `docs/`, `images/`
-- Tổ chức lại thư mục `src/`, `docs/`, `images/`
-- Thêm hình ảnh, sơ đồ dây và video demo
-- Đưa source code đầy đủ lên GitHub
-- Viết hướng dẫn build, nạp code và kiểm thử phần cứng
 
 ---
 - Bổ sung hướng dẫn build, nạp code và kiểm thử phần cứng
